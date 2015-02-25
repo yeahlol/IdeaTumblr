@@ -1,5 +1,5 @@
 # IdeaTumblr
-browsing tumblr content plugin for Intellij IDEA.
+searching tumblr content plugin for Intellij IDEA.
 
 ![](https://raw.githubusercontent.com/yeahlol/yeahlol.github.io/master/images/IdeaTumblr.gif)
 
